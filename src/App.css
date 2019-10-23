@@ -1,0 +1,5 @@
+.basket-sidebar {
+  z-index: 99999 !important;
+  width: 22rem;
+  max-width: 100vw;
+}
